@@ -57,7 +57,7 @@ Note: By default, the model is inputted with a 10-second audio clip collected by
 
 ***(Thou great star! What would be thy happiness if thou hadst not those for whom thou shinest!)***
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***--- Friedrich Wilhelm Nietzsche***
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***--- Friedrich Wilhelm Nietzsche***
 
 
 
