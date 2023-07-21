@@ -13,14 +13,6 @@ We used Python 3.9.7 and PyTorch 1.9.1+cu111 to train and test our model, but th
 
 [Conformer: Convolution-augmented Transformer for Speech Recognition](https://github.com/sooftware/conformer)
 
-Or you can directly execute the following few simple commands to install these two dependencies:
-
-`pip install -U openai-whisper`
-
-`cd ./conformer-main`
-
-`pip install -e .`
-
 We also used the PyAudio library for real-time audio recording. PyAudio is the Python version of PortAudio, a cross-platform audio I/O library. The download method for PyAudio can be referred to the following link:
 
 [Pyaudio Download Website](https://pypi.org/project/PyAudio/) 
