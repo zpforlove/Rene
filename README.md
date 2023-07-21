@@ -38,6 +38,10 @@ Connect the microphone to the stethoscope, then execute the following line of co
 
 Note: By default, the model is inputted with a 10-second audio clip collected by the microphone for disease determination each time, so there will be some delay in the disease output relative to the audio input.
 
+# Model #
+
+We have released the model file **Rene.pth** in the Release module, encouraging users to deploy the model on wearable respiratory sound detection devices, thus promoting the development of edge artificial intelligence in respiratory disease diagnosis.
+
 # Author #
 
 - Pengfei Zhang (PhD of Bioscience and Biomedical Engineering at HKUST(GZ))
