@@ -39,7 +39,7 @@ Connect the microphone to the stethoscope, then execute the following code to se
 
 `python ./streaming.py`
 
-Note: By default, the model is inputted with a 10-second audio clip collected by the microphone for disease determination each time, so there will be some delay in the disease output relative to the audio input.
+Note: By default, the model is inputted with a 10-second audio clip collected by the microphone for disease determination each time, so there will be some delay in the disease prediction relative to the audio input.
 
 
 # Author #
