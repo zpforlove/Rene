@@ -32,7 +32,7 @@ We also used the PyAudio library for real-time audio recording. PyAudio is the P
 
 # Model #
 
-We have released the model file **Rene.pth** in the Release module, encouraging users to deploy the model on wearable respiratory sound detection devices, thus promoting the development of edge artificial intelligence in respiratory disease diagnosis.
+We have released the model file **Rene.pth** in the Releases module, encouraging users to deploy the model on wearable respiratory sound detection devices, thus promoting the development of edge artificial intelligence in respiratory disease diagnosis.
 
 # Usage #
 Connect the microphone to the stethoscope, then execute the following line of code to see the respiratory disease prediction probability values output in percentage form on the console.
