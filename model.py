@@ -5,7 +5,6 @@ from conformer import Conformer
 from cfg_parse import cfg
 
 
-# Define Mish Activation function
 def mish(x):
     return x * torch.tanh(F.softplus(x))
 
