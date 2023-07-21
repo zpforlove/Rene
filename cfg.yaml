@@ -1,0 +1,43 @@
+
+# ################################################################
+#                             Model
+# ################################################################
+
+device: 'cuda:0'
+seed: 666
+
+whisper_seq: 1500
+whiper_dim: 384
+
+encoder_dim: 256
+num_encoder_layers: 16
+num_attention_heads: 4
+
+rnn_hid_dim: 512
+rnn_layers: 2
+bidirect: true
+
+n_fc_layers: 2
+fc_layer_dim: 1024
+
+output_dim: 15
+
+input_dropout: 0.1
+feed_forward_dropout: 0.1
+attention_dropout: 0.1
+conv_dropout: 0.1
+fc_layer_drop: 0.5
+
+## ################################################################
+##                             Experiment
+## ################################################################
+
+batch_size: 64
+lr: 0.00001
+momentum: 0.9
+gamma: 2
+epoch: 200
+save_step: 200
+verbose_step: 100
+lr_reduce_step: 2000
+lr_reduce_ratio: 0.1
