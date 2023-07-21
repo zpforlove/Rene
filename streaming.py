@@ -32,7 +32,7 @@ model.eval()
 
 def whisper_feature(wav, model):
     '''
-    use openai pre-trained whisper model
+    Use OpenAI pre-trained whisper model
     :param wav: audio wav
     :param model: model type
     :return: whisper decoded audio feature
