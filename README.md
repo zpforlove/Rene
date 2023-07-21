@@ -15,7 +15,7 @@ We used Python 3.9.7 and PyTorch 1.9.1+cu111 to train and test our model, but th
 
 Or you can directly execute the following few simple commands to install these two dependencies:
 
-` pip install -U openai-whisper`
+`pip install -U openai-whisper`
 
 `cd ./conformer-main`
 
@@ -54,6 +54,8 @@ Note: By default, the model is inputted with a 10-second audio clip collected by
  I appreciate any kind of feedback or contribution. Please feel free to contact me.
 
 ***Du grosses Gestirn! Was wäre dein Glück, wenn du nicht Die hättest, welchen du leuchtest!***
+
+***(Thou great star! What would be thy happiness if thou hadst not those for whom thou shinest!)***
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***--- Friedrich Wilhelm Nietzsche***
 
