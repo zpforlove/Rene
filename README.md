@@ -45,9 +45,7 @@ Note: By default, the model is inputted with a 10-second audio clip collected by
 
  I appreciate any kind of feedback or contribution. Please feel free to contact me.
 
-***Du grosses Gestirn! Was wäre dein Glück, wenn du nicht Die hättest, welchen du leuchtest!***
-
-***(Thou great star! What would be thy happiness if thou hadst not those for whom thou shinest!)***
+***Thou great star! What would be thy happiness if thou hadst not those for whom thou shinest!***
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***--- Friedrich Wilhelm Nietzsche***
 
