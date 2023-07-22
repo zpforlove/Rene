@@ -1,10 +1,10 @@
-![avatar](/image/Rene.png)
+![image](https://github.com/zpforlove/Rene/blob/main/image/Rene.png)
 ## Hello! This project is the real-time respiratory disease monitoring system designed based on the Rene model architecture. ##
 # Introduction #
 This is a dual-thread real-time respiratory disease discrimination model designed based on the Rene(S) architecture. It can integrate with the LightGBM model trained with comprehensive medical record according to the confidence of Alpha, to output the probability values of 15 types of diseases. The selection of the confidence level Alpha is typically empirical and varies according to application scenarios and input patterns. Below is the performance of Rene model in the ICBHI respiratory disease monitoring task for reference only.
 
 
-![image](/image/ICBHI.jpg)
+![image](https://github.com/zpforlove/Rene/blob/main/image/ICBHI.jpg)
 # Prerequisites #
 We used Python 3.9.7 and PyTorch 1.9.1+cu111 to train and test our model, but the codebase is expected to be compatible with Python 3.8-3.11 and the most recent version of PyTorch. The codebase also relies on some Python packages, the most notable dependencies are two foundations used in the construction of the Rene model: the general speech recognition model Whisper and the convolution-augmented Transformer for speech recognition: Conformer. The installation methods for these two dependencies can be found in the following two links.
 
