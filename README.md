@@ -31,7 +31,9 @@ We also used the PyAudio library for real-time audio recording. PyAudio is the P
 
 # Model #
 
-**Rene.pth** can be downloaded from the Rene distribution in the Releases module on the right side of the webpage. We open-sourced the model to encourage users to deploy the model on wearable respiratory sound detection devices, thus promoting the development of edge artificial intelligence in respiratory disease diagnosis.
+**Rene.pth** can be downloaded through the following Google Drive share link. We open-sourced the model to encourage users to deploy the model on wearable respiratory sound detection devices, thus promoting the development of edge artificial intelligence in respiratory disease diagnosis.
+
+[Rene.pth Download Path](https://drive.google.com/file/d/1hGXNONeENRiom03RoXFwE1xWgyYzDlKK/view)
 
 # Usage #
 Firstly, you need to ensure that the running device contains a sound card and corresponding drivers. For example, it cannot be a virtual machine or a server.
