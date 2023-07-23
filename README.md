@@ -55,7 +55,7 @@ Note: By default, the model is inputted with a 10-second audio clip collected by
 
 # Author #
 
-- Pengfei Zhang (PhD of Bioscience and Biomedical Engineering at HKUST(GZ))
+- Pengfei Zhang (PhD in Bioscience and Biomedical Engineering at HKUST(GZ))
 - Contacts: austin.zh@foxmail.com
 
  I appreciate any kind of feedback or contribution. Please feel free to contact me.
