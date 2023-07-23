@@ -27,9 +27,7 @@ We also used the PyAudio library for real-time audio recording. PyAudio is the P
 `pip install pyaudio`
 
 
-- Note for Windows users: If the installation fails, please install PyAudio by the WHL file corresponding to your Python version from the following link : [PyAudio WHL Files](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
-
-After you download the WHL file to your local system, you can execute a command similar to the one below in your console to install PyAudio.
+- Note for Windows users: If the installation fails, please install PyAudio by the WHL file corresponding to your Python version from the following link : [PyAudio WHL Files](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio), you can execute a command similar to the one below in your console to install PyAudio.
 
 `pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl`
 
