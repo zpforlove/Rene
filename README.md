@@ -1,4 +1,4 @@
-![image](https://github.com/zpforlove/Rene/blob/main/images/Rene_v1.png)
+![image](https://github.com/zpforlove/Rene/blob/main/images/Rene.png)
 # Introduction #
 This is a dual-thread real-time respiratory disease discrimination model designed based on the Rene(S) architecture. It can integrate with the LightGBM model trained with comprehensive medical record according to the confidence of Alpha, to output the probability values of 15 types of diseases. The selection of the confidence level Alpha is typically empirical and varies according to application scenarios and input patterns. Below is the performance of Rene model in the ICBHI respiratory disease monitoring task for reference only.
 
