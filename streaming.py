@@ -40,7 +40,7 @@ def whisper_feature(wav, model):
     model = whisper.load_model(model)
     audio = whisper.pad_or_trim(wav)
     mel = whisper.log_mel_spectrogram(audio).to(model.device)
-    options = whisper.DecodingOptions()
+    options = whisper.DecodingOptions(fp16 = False)
     result = whisper.decode(model, mel, options)
     feature = result.audio_features
     return feature
