@@ -31,7 +31,7 @@ We also used the PyAudio library for real-time audio recording. PyAudio is the P
 
 # Model #
 
-**Rene.pth** can be downloaded through the following Google Drive share link. We open-sourced the model to encourage users to deploy the model on wearable respiratory sound detection devices, thus promoting the development of edge artificial intelligence in respiratory disease diagnosis.
+**Rene.pth** can be downloaded through the following Google Drive share link. The purpose of open sourcing this model file is to encourage users to deploy the model on wearable respiratory sound detection devices, thereby promoting the development of edge artificial intelligence in the diagnosis of respiratory diseases.
 
 [Rene.pth Download Path](https://drive.google.com/file/d/1hGXNONeENRiom03RoXFwE1xWgyYzDlKK/view)
 
