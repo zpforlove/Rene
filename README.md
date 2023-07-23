@@ -14,7 +14,7 @@ We used Python 3.9.7 and [PyTorch](https://pytorch.org/) 1.9.1+cu111 to train an
 
 We also used the PyAudio library for real-time audio recording. PyAudio is the Python version of PortAudio, a cross-platform audio I/O library. The download method for PyAudio can be referred to the following link:
 
-[Pyaudio Download Website](https://pypi.org/project/PyAudio/) 
+[PyAudio Download Website](https://pypi.org/project/PyAudio/) 
 
 
 
@@ -27,7 +27,11 @@ We also used the PyAudio library for real-time audio recording. PyAudio is the P
 `pip install pyaudio`
 
 
-- Note for Windows users: If the installation fails, please install PyAudio by the WHL file corresponding to your Python version from the following link : [Pyaudio WHL Files](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+- Note for Windows users: If the installation fails, please install PyAudio by the WHL file corresponding to your Python version from the following link : [PyAudio WHL Files](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+
+After you download the WHL file to your local system, you can execute a command similar to the one below in your console to install PyAudio.
+
+`pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl`
 
 # Model #
 
