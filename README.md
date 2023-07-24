@@ -48,7 +48,7 @@ Connect the microphone to the stethoscope, then execute the following code to se
 
 `python ./streaming.py`
 
-Note: By default, the model is inputted with a 10-second audio clip collected by the microphone for disease determination each time, so there will be some delay in the disease prediction relative to the audio input. The dual threaded processing process is shown in the following figure.
+The dual-thread lung sound real-time decoding process is shown in the following figure.
 
 ![image](https://github.com/zpforlove/Rene/blob/main/images/DT.png)
 
