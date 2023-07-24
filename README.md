@@ -50,7 +50,7 @@ Connect the microphone to the stethoscope, then execute the following code to se
 
 The dual-thread lung sound real-time decoding process is shown in the following figure.
 
-![image](https://github.com/zpforlove/Rene/blob/main/images/DT.png)
+![image](https://github.com/zpforlove/Rene/blob/main/images/Dual_threading.png)
 
 
 # Author #
