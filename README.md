@@ -1,7 +1,7 @@
 # Rene Architecture #
 ![image](https://github.com/zpforlove/Rene/blob/main/images/Rene_model.png)
 # Introduction #
-This is a real-time respiratory disease recognition system based on the Rene (S) architecture, which can output the prediction probabilities of 15 diseases based on respiratory sounds. The selection of the confidence level Alpha for multimodal fusion is typically empirical and varies according to application scenarios and input patterns. Below is the performance of Rene model in the ICBHI respiratory disease monitoring task for reference only.
+This is a real-time respiratory disease recognition system based on the Rene architecture, which can output the prediction probabilities of 15 diseases based on respiratory sounds. The selection of the confidence level Alpha for multimodal fusion is typically empirical and varies according to application scenarios and input patterns. Below is the performance of Rene model in the ICBHI respiratory disease monitoring task for reference only.
 
 
 ![image](https://github.com/zpforlove/Rene/blob/main/images/ICBHI.jpg)
@@ -34,7 +34,7 @@ We also used the PyAudio library for real-time audio recording. PyAudio is the P
 
 # Model #
 
-**Rene.pth** can be downloaded through the following Google Drive share link. The purpose of open sourcing this model file is to encourage users to deploy the model on wearable respiratory sound detection devices, thereby promoting the development of edge artificial intelligence in the diagnosis of respiratory diseases.
+**Rene.pth** can be downloaded through the following Google Drive share link. The purpose of open sourcing Rene(S) model file is to encourage users to deploy the model on wearable respiratory sound detection devices, thereby promoting the development of edge artificial intelligence in the diagnosis of respiratory diseases.
 
 [Rene.pth Download Path (Google Drive)](https://drive.google.com/file/d/1hGXNONeENRiom03RoXFwE1xWgyYzDlKK/view)
 
