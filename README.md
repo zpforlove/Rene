@@ -1,3 +1,4 @@
+# Model Architecture #
 ![image](https://github.com/zpforlove/Rene/blob/main/images/Rene_model.png)
 # Introduction #
 This is a real-time respiratory disease recognition system based on the Rene (S) architecture, which can output the prediction probabilities of 15 diseases based on respiratory sounds. The selection of the confidence level Alpha for multimodal fusion is typically empirical and varies according to application scenarios and input patterns. Below is the performance of Rene model in the ICBHI respiratory disease monitoring task for reference only.
