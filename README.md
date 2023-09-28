@@ -4,7 +4,7 @@
 This is a real-time respiratory disease recognition system based on the Rene architecture, which can output the prediction probabilities of 15 diseases based on respiratory sounds. The selection of the confidence level Alpha for multimodal fusion is typically empirical and varies according to application scenarios and input patterns. Below is the performance of Rene model in the SPRSound respiratory database for reference only.
 
 
-![image](https://github.com/zpforlove/Rene/blob/main/images/SPRSound.png)
+![image](https://github.com/zpforlove/Rene/blob/main/images/Results.png)
 # Prerequisites #
 We used Python 3.9.7 and [PyTorch](https://pytorch.org/) 1.9.1+cu111 to train and test our model, but the codebase is expected to be compatible with Python 3.8-3.11 and the most recent version of PyTorch. The codebase also relies on some Python packages, the most notable dependencies are the foundation and backbone used in the construction of the Rene model: the general speech recognition model Whisper and the convolution-augmented Transformer for speech recognition: Conformer. The installation methods for these two dependencies can be found in the following two links.
 
