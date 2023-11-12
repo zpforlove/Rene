@@ -40,7 +40,7 @@ We also used the PyAudio library for real-time audio recording. PyAudio is the P
 
 If you are a user from China, you can also download the model file through the following Baidu Netdisk share link:
 
-[Rene.pth Download Path (Baidu Netdisk)](https://pan.baidu.com/s/1cqukxk2TQwJlyrez6ARroQ?pwd=c4iz)
+[Rene.pth Download Path (Baidu Netdisk)](https://pan.baidu.com/s/1JKxM78JgXgljhGzyEpXsug?pwd=q05m)
 
 # Usage #
 Firstly, you need to ensure that the running device contains a sound card and corresponding drivers. For example, it cannot be a virtual machine or a server.
