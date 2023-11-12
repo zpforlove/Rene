@@ -56,7 +56,7 @@ The dual-thread lung sound real-time decoding process is shown in the following 
 
 # Author #
 
-- Pengfei Zhang (PhD student in Bioscience and Biomedical Engineering at HKUST(GZ))
+- Pengfei Zhang (PhD in Bioscience and Biomedical Engineering at HKUST(GZ))
 - Contacts: austin.zh@foxmail.com
 
  I appreciate any kind of feedback or contribution. Please feel free to contact me.
